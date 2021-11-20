@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_dipper.mk
+    $(LOCAL_DIR)/spark_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-yaap_dipper-user \
-yaap_dipper-userdebug \
-yaap_dipper-eng
+spark_dipper-user \
+spark_dipper-userdebug \
+spark_dipper-eng
